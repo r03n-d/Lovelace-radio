@@ -1,7 +1,7 @@
 # Lovelace-radio
 
 The radio card is combined out of a few cards: [stack-in-card (HACS)](https://github.com/custom-cards/stack-in-card), button-cards in a horizontal-stack, and two times a [mini-media-player](https://github.com/kalkih/mini-media-player). 
-You will require [spotcast (HACS)[(https://github.com/fondberg/spotcast) for this to work. 
+You will need [spotcast (HACS)](https://github.com/fondberg/spotcast) for this to work. 
 
 ```
 type: custom:stack-in-card
